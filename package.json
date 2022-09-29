@@ -1,6 +1,5 @@
 {
-  "name": "elagant-music-app",
-  "private": true,
+  "name": "music-app",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
