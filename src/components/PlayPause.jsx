@@ -7,3 +7,4 @@ const PlayPause = ({ isPlaying, activeSong, song, handlePause, handlePlay }) => 
 ));
 
 export default PlayPause;
+
